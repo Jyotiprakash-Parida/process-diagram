@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-04-14T12:13:14.346Z" agent="5.0 (iPad; CPU OS 13_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/81.0.4044.62 Mobile/15E148 Safari/604.1" etag="qyj35ZoRNnEuFnFkyZq5" version="12.9.12" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-14T12:45:14.711Z" agent="5.0 (iPad; CPU OS 13_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/81.0.4044.62 Mobile/15E148 Safari/604.1" etag="B3FMBqUDZlqXOJxt8sNC" version="12.9.12" type="github">
   <diagram id="yV83-HusEnY6b_AulCfM" name="Page-1">
-    <mxGraphModel dx="1249" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1028" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -96,8 +96,18 @@
         <mxCell id="rq69DZWPiNMLJTjYbfjI-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pP9K9YfO7FwaA33NYiLa-41" target="rq69DZWPiNMLJTjYbfjI-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-53" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rq69DZWPiNMLJTjYbfjI-42">
+          <mxGeometry x="-0.16" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="rq69DZWPiNMLJTjYbfjI-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pP9K9YfO7FwaA33NYiLa-41" target="pP9K9YfO7FwaA33NYiLa-49" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-54" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="rq69DZWPiNMLJTjYbfjI-45">
+          <mxGeometry x="-0.1467" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="pP9K9YfO7FwaA33NYiLa-41" value="VAT available?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="410" y="610" width="80" height="70" as="geometry" />
@@ -283,8 +293,99 @@
         <mxCell id="UMwTot8FTqzU-x-sj8S2-16" value="Search the Business Partner" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="1090" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UMwTot8FTqzU-x-sj8S2-18" target="UMwTot8FTqzU-x-sj8S2-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UMwTot8FTqzU-x-sj8S2-18" value="Double click on the Partner result" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="900" y="1200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UMwTot8FTqzU-x-sj8S2-22" target="UMwTot8FTqzU-x-sj8S2-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="650" y="1230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-22" value="Display Organisation screen will appear" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="1200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UMwTot8FTqzU-x-sj8S2-26" target="UMwTot8FTqzU-x-sj8S2-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-26" value="Collect the Customer &amp;nbsp;Name, postal code &amp;amp; VAT/tax number from Address tab. Else collect tax id from identification tab. Also collect industry code from Customer Data tab" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1165" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-31" value="Sometimes Tax ID &amp;amp; industry id will be mentioned in comment section" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="440" y="1300" width="330" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UMwTot8FTqzU-x-sj8S2-32" target="UMwTot8FTqzU-x-sj8S2-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-32" value="Open Customer Display screen (/NXDO3)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UMwTot8FTqzU-x-sj8S2-34" target="UMwTot8FTqzU-x-sj8S2-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-34" value="Enter the collected Customer Name in ‘Name’ field and search" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="1200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UMwTot8FTqzU-x-sj8S2-37" target="UMwTot8FTqzU-x-sj8S2-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-48" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UMwTot8FTqzU-x-sj8S2-37" target="UMwTot8FTqzU-x-sj8S2-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-37" value="Customer &amp;nbsp;Name found?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="225" y="1330" width="100" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-39" value="If postal code doesn’t match go ahead with creation steps" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="510" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UMwTot8FTqzU-x-sj8S2-40" target="UMwTot8FTqzU-x-sj8S2-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-40" value="Match the postal code" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="215" y="1490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UMwTot8FTqzU-x-sj8S2-43" target="UMwTot8FTqzU-x-sj8S2-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UMwTot8FTqzU-x-sj8S2-43" target="UMwTot8FTqzU-x-sj8S2-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-60" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UMwTot8FTqzU-x-sj8S2-59">
+          <mxGeometry x="-0.1009" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-43" value="Postal code matches?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1480" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-45" value="Go to Status tab. Select 307 Rejected by GIM. Mention comment as duplicate vendor. And save." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="565" y="1485" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UMwTot8FTqzU-x-sj8S2-47" target="UMwTot8FTqzU-x-sj8S2-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-47" value="no value for the selection will appear" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1355" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UMwTot8FTqzU-x-sj8S2-49" target="UMwTot8FTqzU-x-sj8S2-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-49" value="Open Europa tax site" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="580" y="1355" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UMwTot8FTqzU-x-sj8S2-51" target="UMwTot8FTqzU-x-sj8S2-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-51" value="VAT available?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="770" y="1350" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-55" value="Go to SAP Display organisation screen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="1490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-56" value="Go to SAP Display Organisation screen&amp;gt;Change in BP Role&amp;gt; Select YCU001 Metso Customer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="910" y="1350" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

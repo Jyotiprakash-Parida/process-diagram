@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-04-14T12:45:14.711Z" agent="5.0 (iPad; CPU OS 13_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/81.0.4044.62 Mobile/15E148 Safari/604.1" etag="B3FMBqUDZlqXOJxt8sNC" version="12.9.12" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-14T12:55:46.490Z" agent="5.0 (iPad; CPU OS 13_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/81.0.4044.62 Mobile/15E148 Safari/604.1" etag="nEJguJHoNdd3kbvHbD-e" version="12.9.12" type="github">
   <diagram id="yV83-HusEnY6b_AulCfM" name="Page-1">
     <mxGraphModel dx="1028" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -376,16 +376,38 @@
           <mxGeometry x="580" y="1355" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UMwTot8FTqzU-x-sj8S2-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UMwTot8FTqzU-x-sj8S2-51" target="UMwTot8FTqzU-x-sj8S2-56">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="880" y="1385" />
+              <mxPoint x="880" y="1385" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-65" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UMwTot8FTqzU-x-sj8S2-57">
+          <mxGeometry y="7" relative="1" as="geometry">
+            <mxPoint x="-7" y="5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-63" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UMwTot8FTqzU-x-sj8S2-51" target="UMwTot8FTqzU-x-sj8S2-55">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UMwTot8FTqzU-x-sj8S2-51" value="VAT available?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="770" y="1350" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UMwTot8FTqzU-x-sj8S2-55" target="UMwTot8FTqzU-x-sj8S2-45">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UMwTot8FTqzU-x-sj8S2-55" value="Go to SAP Display organisation screen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="1490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="UMwTot8FTqzU-x-sj8S2-56" value="Go to SAP Display Organisation screen&amp;gt;Change in BP Role&amp;gt; Select YCU001 Metso Customer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="910" y="1350" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-67" value="Confirmation mail will be generated automatically&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="515" y="740" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-68" value="Confirmation mail will be generated automatically&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="1360" width="170" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -1,1 +1,292 @@
-<mxfile host="app.diagrams.net" modified="2020-04-14T11:59:32.837Z" agent="5.0 (iPad; CPU OS 13_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/81.0.4044.62 Mobile/15E148 Safari/604.1" etag="WqdHMDDul93mGeBVOjc3" version="12.9.12" type="github"><diagram id="yV83-HusEnY6b_AulCfM" name="Page-1">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</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2020-04-14T12:13:14.346Z" agent="5.0 (iPad; CPU OS 13_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/81.0.4044.62 Mobile/15E148 Safari/604.1" etag="qyj35ZoRNnEuFnFkyZq5" version="12.9.12" type="github">
+  <diagram id="yV83-HusEnY6b_AulCfM" name="Page-1">
+    <mxGraphModel dx="1249" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rq69DZWPiNMLJTjYbfjI-63" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rq69DZWPiNMLJTjYbfjI-60" target="rq69DZWPiNMLJTjYbfjI-62" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rq69DZWPiNMLJTjYbfjI-60" value="Enter collected TAX id in Control data tab" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="840" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pP9K9YfO7FwaA33NYiLa-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pP9K9YfO7FwaA33NYiLa-2" target="pP9K9YfO7FwaA33NYiLa-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pP9K9YfO7FwaA33NYiLa-2" value="Start" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="50" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="pP9K9YfO7FwaA33NYiLa-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pP9K9YfO7FwaA33NYiLa-3" target="pP9K9YfO7FwaA33NYiLa-4" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pP9K9YfO7FwaA33NYiLa-3" value="Login SAP" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pP9K9YfO7FwaA33NYiLa-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pP9K9YfO7FwaA33NYiLa-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pP9K9YfO7FwaA33NYiLa-4" value="Extract YBPREPORT" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pP9K9YfO7FwaA33NYiLa-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pP9K9YfO7FwaA33NYiLa-9" target="pP9K9YfO7FwaA33NYiLa-13" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pP9K9YfO7FwaA33NYiLa-9" value="Enter the collected Business partner number in BP field and hit enter" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pP9K9YfO7FwaA33NYiLa-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pP9K9YfO7FwaA33NYiLa-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pP9K9YfO7FwaA33NYiLa-13" value="Search the Business Partner" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="pP9K9YfO7FwaA33NYiLa-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pP9K9YfO7FwaA33NYiLa-18" target="pP9K9YfO7FwaA33NYiLa-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pP9K9YfO7FwaA33NYiLa-18" value="Display Organisation screen will appear" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="215" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rq69DZWPiNMLJTjYbfjI-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pP9K9YfO7FwaA33NYiLa-25" target="rq69DZWPiNMLJTjYbfjI-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pP9K9YfO7FwaA33NYiLa-25" value="Collect the Vendor Name, postal code &amp;amp; VAT/tax number from Address tab. Else collect tax id from identification tab" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="215" y="375" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="rq69DZWPiNMLJTjYbfjI-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pP9K9YfO7FwaA33NYiLa-27" target="rq69DZWPiNMLJTjYbfjI-22" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="800" y="420" />
+              <mxPoint x="800" y="420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rq69DZWPiNMLJTjYbfjI-24" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rq69DZWPiNMLJTjYbfjI-23" vertex="1" connectable="0">
+          <mxGeometry y="-7" relative="1" as="geometry">
+            <mxPoint x="-7" y="-7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rq69DZWPiNMLJTjYbfjI-27" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pP9K9YfO7FwaA33NYiLa-27" target="pP9K9YfO7FwaA33NYiLa-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pP9K9YfO7FwaA33NYiLa-27" value="Vendor Name found?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="700" y="380" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rq69DZWPiNMLJTjYbfjI-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pP9K9YfO7FwaA33NYiLa-29" target="pP9K9YfO7FwaA33NYiLa-31" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pP9K9YfO7FwaA33NYiLa-29" value="no value for the selection will appear" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="680" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rq69DZWPiNMLJTjYbfjI-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pP9K9YfO7FwaA33NYiLa-31" target="pP9K9YfO7FwaA33NYiLa-38" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pP9K9YfO7FwaA33NYiLa-31" value="Open Europa tax site" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rq69DZWPiNMLJTjYbfjI-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pP9K9YfO7FwaA33NYiLa-38" target="pP9K9YfO7FwaA33NYiLa-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pP9K9YfO7FwaA33NYiLa-38" value="Enter Member state and VAT number" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="390" y="500" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rq69DZWPiNMLJTjYbfjI-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pP9K9YfO7FwaA33NYiLa-41" target="rq69DZWPiNMLJTjYbfjI-41" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rq69DZWPiNMLJTjYbfjI-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pP9K9YfO7FwaA33NYiLa-41" target="pP9K9YfO7FwaA33NYiLa-49" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pP9K9YfO7FwaA33NYiLa-41" value="VAT available?" style="rhombus;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="410" y="610" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rq69DZWPiNMLJTjYbfjI-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="pP9K9YfO7FwaA33NYiLa-49" target="rq69DZWPiNMLJTjYbfjI-46" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pP9K9YfO7FwaA33NYiLa-49" value="Go to SAP Display Organisation screen&amp;gt;Change in BP Role&amp;gt; Select YVE001 METSO vendor&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="390" y="730" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rq69DZWPiNMLJTjYbfjI-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rq69DZWPiNMLJTjYbfjI-2" target="rq69DZWPiNMLJTjYbfjI-3" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rq69DZWPiNMLJTjYbfjI-2" value="Collect &amp;nbsp;Business Partner Number &amp;amp; Group Name" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="560" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rq69DZWPiNMLJTjYbfjI-6" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rq69DZWPiNMLJTjYbfjI-3" target="rq69DZWPiNMLJTjYbfjI-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rq69DZWPiNMLJTjYbfjI-8" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rq69DZWPiNMLJTjYbfjI-3" target="rq69DZWPiNMLJTjYbfjI-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="770" y="190" />
+              <mxPoint x="770" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rq69DZWPiNMLJTjYbfjI-3" value="Group YVEN?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="730" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rq69DZWPiNMLJTjYbfjI-5" value="A" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
+          <mxGeometry x="860" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rq69DZWPiNMLJTjYbfjI-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rq69DZWPiNMLJTjYbfjI-7" target="pP9K9YfO7FwaA33NYiLa-9" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rq69DZWPiNMLJTjYbfjI-7" value="Move to YBPGIM screen(/NYBPGIM) for Vendor creation" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="710" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rq69DZWPiNMLJTjYbfjI-9" value="YVEN is Vendor creation&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="710" y="10" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rq69DZWPiNMLJTjYbfjI-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rq69DZWPiNMLJTjYbfjI-11" target="pP9K9YfO7FwaA33NYiLa-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rq69DZWPiNMLJTjYbfjI-11" value="Double click on the Partner result" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="215" y="210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rq69DZWPiNMLJTjYbfjI-13" value="Sometimes Tax ID will be mentioned in comment section" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="120" y="400" width="80" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="rq69DZWPiNMLJTjYbfjI-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rq69DZWPiNMLJTjYbfjI-14" target="rq69DZWPiNMLJTjYbfjI-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rq69DZWPiNMLJTjYbfjI-14" value="Open Display Vendor screen (/NKX03)" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="380" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rq69DZWPiNMLJTjYbfjI-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rq69DZWPiNMLJTjYbfjI-16" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="420" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rq69DZWPiNMLJTjYbfjI-16" value="Enter the collected Vendor Name in ‘Name’ field and search" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rq69DZWPiNMLJTjYbfjI-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rq69DZWPiNMLJTjYbfjI-22" target="rq69DZWPiNMLJTjYbfjI-25" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rq69DZWPiNMLJTjYbfjI-22" value="Match the postal code" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="820" y="390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rq69DZWPiNMLJTjYbfjI-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rq69DZWPiNMLJTjYbfjI-25" target="pP9K9YfO7FwaA33NYiLa-29" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rq69DZWPiNMLJTjYbfjI-35" value="N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rq69DZWPiNMLJTjYbfjI-28" vertex="1" connectable="0">
+          <mxGeometry x="-0.3" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rq69DZWPiNMLJTjYbfjI-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rq69DZWPiNMLJTjYbfjI-25" target="rq69DZWPiNMLJTjYbfjI-36" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rq69DZWPiNMLJTjYbfjI-39" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="rq69DZWPiNMLJTjYbfjI-38" vertex="1" connectable="0">
+          <mxGeometry x="-0.45" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rq69DZWPiNMLJTjYbfjI-25" value="Postal code matches?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="840" y="490" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rq69DZWPiNMLJTjYbfjI-36" value="Go to Status tab. Select 307 Rejected by GIM. Mention comment as duplicate vendor. And save." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="820" y="610" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="rq69DZWPiNMLJTjYbfjI-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="rq69DZWPiNMLJTjYbfjI-41" target="rq69DZWPiNMLJTjYbfjI-36" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="637.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rq69DZWPiNMLJTjYbfjI-41" value="Go to SAP Display organisation screen" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="615" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rq69DZWPiNMLJTjYbfjI-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rq69DZWPiNMLJTjYbfjI-46" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="rq69DZWPiNMLJTjYbfjI-46" value="Go to Status tab&amp;gt; Select 306 GIM APPROVED" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="390" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rq69DZWPiNMLJTjYbfjI-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rq69DZWPiNMLJTjYbfjI-52" target="rq69DZWPiNMLJTjYbfjI-54" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rq69DZWPiNMLJTjYbfjI-52" value="Save and enter /NYBPGIM" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="540" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rq69DZWPiNMLJTjYbfjI-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rq69DZWPiNMLJTjYbfjI-54" target="rq69DZWPiNMLJTjYbfjI-57" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rq69DZWPiNMLJTjYbfjI-54" value="Enter /NXK07 to add the vendor to new account group" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="690" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rq69DZWPiNMLJTjYbfjI-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rq69DZWPiNMLJTjYbfjI-57" target="rq69DZWPiNMLJTjYbfjI-60" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rq69DZWPiNMLJTjYbfjI-57" value="Enter the vendor number in Vendor field and Y005 in New account group field" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="840" y="850" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rq69DZWPiNMLJTjYbfjI-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rq69DZWPiNMLJTjYbfjI-62" target="rq69DZWPiNMLJTjYbfjI-64" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rq69DZWPiNMLJTjYbfjI-62" value="Enter VAT number in VAT Reg field." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="690" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rq69DZWPiNMLJTjYbfjI-67" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="rq69DZWPiNMLJTjYbfjI-64" target="rq69DZWPiNMLJTjYbfjI-66" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="rq69DZWPiNMLJTjYbfjI-64" value="Save the data" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="540" y="950" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rq69DZWPiNMLJTjYbfjI-66" value="Stop" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="390" y="940" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="rq69DZWPiNMLJTjYbfjI-69" value="The request will be received as Business Partner Number. Later according to the group it will be considered as Vendor or Customer Number" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="157.5" y="10" width="292.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UMwTot8FTqzU-x-sj8S2-2" target="UMwTot8FTqzU-x-sj8S2-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-2" value="A" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="78" y="1080" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UMwTot8FTqzU-x-sj8S2-3" target="UMwTot8FTqzU-x-sj8S2-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-3" value="YCUS group" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UMwTot8FTqzU-x-sj8S2-4" target="UMwTot8FTqzU-x-sj8S2-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="570" y="1120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-4" value="Customer Creation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UMwTot8FTqzU-x-sj8S2-5" target="UMwTot8FTqzU-x-sj8S2-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-5" value="Move to YBPGIM screen(/NYBPGIM) for Customer creation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="1092.5" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UMwTot8FTqzU-x-sj8S2-14" target="UMwTot8FTqzU-x-sj8S2-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-14" value="Enter the collected Business partner number in BP field and hit enter" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="UMwTot8FTqzU-x-sj8S2-16" target="UMwTot8FTqzU-x-sj8S2-18">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="960" y="1230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-16" value="Search the Business Partner" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-18" value="Double click on the Partner result" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="1200" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

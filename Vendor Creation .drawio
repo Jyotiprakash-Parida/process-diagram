@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-04-14T12:55:46.490Z" agent="5.0 (iPad; CPU OS 13_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/81.0.4044.62 Mobile/15E148 Safari/604.1" etag="nEJguJHoNdd3kbvHbD-e" version="12.9.12" type="github">
+<mxfile host="app.diagrams.net" modified="2020-04-14T13:45:18.138Z" agent="5.0 (iPad; CPU OS 13_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/81.0.4044.62 Mobile/15E148 Safari/604.1" etag="IF-IIpWGKIvwdKGcoZE6" version="12.9.12" type="github">
   <diagram id="yV83-HusEnY6b_AulCfM" name="Page-1">
-    <mxGraphModel dx="1028" dy="607" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1156" dy="683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -328,7 +328,7 @@
         <mxCell id="UMwTot8FTqzU-x-sj8S2-34" value="Enter the collected Customer Name in ‘Name’ field and search" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="215" y="1200" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="UMwTot8FTqzU-x-sj8S2-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UMwTot8FTqzU-x-sj8S2-37" target="UMwTot8FTqzU-x-sj8S2-40">
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-41" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UMwTot8FTqzU-x-sj8S2-37" target="UMwTot8FTqzU-x-sj8S2-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="UMwTot8FTqzU-x-sj8S2-48" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UMwTot8FTqzU-x-sj8S2-37" target="UMwTot8FTqzU-x-sj8S2-47">
@@ -348,6 +348,11 @@
         </mxCell>
         <mxCell id="UMwTot8FTqzU-x-sj8S2-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UMwTot8FTqzU-x-sj8S2-43" target="UMwTot8FTqzU-x-sj8S2-45">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-106" value="Y" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="UMwTot8FTqzU-x-sj8S2-46">
+          <mxGeometry x="-0.1933" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="UMwTot8FTqzU-x-sj8S2-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UMwTot8FTqzU-x-sj8S2-43" target="UMwTot8FTqzU-x-sj8S2-47">
           <mxGeometry relative="1" as="geometry" />
@@ -400,6 +405,9 @@
         <mxCell id="UMwTot8FTqzU-x-sj8S2-55" value="Go to SAP Display organisation screen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="750" y="1490" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-70" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UMwTot8FTqzU-x-sj8S2-56" target="UMwTot8FTqzU-x-sj8S2-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="UMwTot8FTqzU-x-sj8S2-56" value="Go to SAP Display Organisation screen&amp;gt;Change in BP Role&amp;gt; Select YCU001 Metso Customer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="910" y="1350" width="120" height="70" as="geometry" />
         </mxCell>
@@ -408,6 +416,113 @@
         </mxCell>
         <mxCell id="UMwTot8FTqzU-x-sj8S2-68" value="Confirmation mail will be generated automatically&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1040" y="1360" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-72" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UMwTot8FTqzU-x-sj8S2-69" target="UMwTot8FTqzU-x-sj8S2-71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-69" value="Save and enter /NYBPGIM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="1490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UMwTot8FTqzU-x-sj8S2-71">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="870" y="1630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-71" value="Enter /NXD07 to add the Customer to new account group" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="1600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UMwTot8FTqzU-x-sj8S2-76" target="UMwTot8FTqzU-x-sj8S2-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-76" value="Enter the Customer &amp;nbsp;number in Customer &amp;nbsp;field and Y005 in New account group field" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="1590" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UMwTot8FTqzU-x-sj8S2-77" target="UMwTot8FTqzU-x-sj8S2-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-77" value="Go to Change Control screen&amp;gt; Control Data tab. Enter collected Industry code and tax &amp;nbsp;id&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="565" y="1590" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-82" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UMwTot8FTqzU-x-sj8S2-79" target="UMwTot8FTqzU-x-sj8S2-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-79" value="Save the data. Message will pop up. Click ok the Correct sign." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="395" y="1600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-84" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UMwTot8FTqzU-x-sj8S2-81" target="UMwTot8FTqzU-x-sj8S2-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-81" value="Enter /NXD01 to create account group for Customer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="220" y="1600" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UMwTot8FTqzU-x-sj8S2-83" target="UMwTot8FTqzU-x-sj8S2-86">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-83" value="Enter Y009 in Account Group field. Add a trailing zero to Customer Number and enter that in Customer field" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="195" y="1713.5" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-92" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UMwTot8FTqzU-x-sj8S2-86" target="UMwTot8FTqzU-x-sj8S2-88">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-86" value="Press Enter &amp;amp; enter all the customer information in Create Customer screen (collect the data from YBPGIM)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="205" y="1850" width="150" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-93" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UMwTot8FTqzU-x-sj8S2-88" target="UMwTot8FTqzU-x-sj8S2-90">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-88" value="Fill all the required fields in address, control data fields" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="410" y="1863" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-94" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UMwTot8FTqzU-x-sj8S2-90" target="UMwTot8FTqzU-x-sj8S2-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-90" value="If Send to M3 has been mentioned in comment section, go to marketing tab" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="590" y="1863" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-96" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UMwTot8FTqzU-x-sj8S2-91" target="UMwTot8FTqzU-x-sj8S2-95">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-91" value="Go to customer class . Select the option according to the comment." style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="770" y="1863" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-98" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UMwTot8FTqzU-x-sj8S2-95" target="UMwTot8FTqzU-x-sj8S2-97">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-95" value="Save and enter /NFD32" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1863" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-101" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UMwTot8FTqzU-x-sj8S2-97" target="UMwTot8FTqzU-x-sj8S2-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-97" value="Enter Customer Number in Customer field. 0001 in Credit control area" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="950" y="1990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-103" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UMwTot8FTqzU-x-sj8S2-100" target="UMwTot8FTqzU-x-sj8S2-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-100" value="Select the check box ‘status’" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="780" y="1990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="UMwTot8FTqzU-x-sj8S2-102" target="UMwTot8FTqzU-x-sj8S2-104">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-102" value="Press enter twice" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1990" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-104" value="Stop" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="414" y="1980" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-109" value="Note: if industry code is not available, &amp;nbsp;request should be rejected" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="157.5" y="2100" width="272.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-111" value="Customer creation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1020" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-113" value="Text" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="260" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="UMwTot8FTqzU-x-sj8S2-114" value="Vendor Creation&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="28" y="20" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
